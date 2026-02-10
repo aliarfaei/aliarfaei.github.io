@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.84faa73e.css",
-    "main.js": "/static/js/main.63b918e2.js",
-    "static/js/453.f3642e6f.chunk.js": "/static/js/453.f3642e6f.chunk.js",
-    "static/media/menu-logo-vertical.png": "/static/media/menu-logo-vertical.d73cb254d0392c38ab60.png",
-    "static/media/logo.png": "/static/media/logo.03317ce3e956a8564021.png",
-    "static/media/menu-logo-horizontal.png": "/static/media/menu-logo-horizontal.03317ce3e956a8564021.png",
-    "static/media/pending-request.svg": "/static/media/pending-request.ba8259844f33d67cdc61a10aab222b7c.svg",
-    "index.html": "/index.html",
-    "main.84faa73e.css.map": "/static/css/main.84faa73e.css.map",
-    "main.63b918e2.js.map": "/static/js/main.63b918e2.js.map",
-    "453.f3642e6f.chunk.js.map": "/static/js/453.f3642e6f.chunk.js.map"
+    "main.css": "/felix-fusion/static/css/main.2bc09a73.css",
+    "main.js": "/felix-fusion/static/js/main.103212d8.js",
+    "static/js/453.f3642e6f.chunk.js": "/felix-fusion/static/js/453.f3642e6f.chunk.js",
+    "static/media/menu-logo-vertical.png": "/felix-fusion/static/media/menu-logo-vertical.d73cb254d0392c38ab60.png",
+    "static/media/logo.png": "/felix-fusion/static/media/logo.03317ce3e956a8564021.png",
+    "static/media/menu-logo-horizontal.png": "/felix-fusion/static/media/menu-logo-horizontal.03317ce3e956a8564021.png",
+    "static/media/pending-request.svg": "/felix-fusion/static/media/pending-request.ba8259844f33d67cdc61a10aab222b7c.svg",
+    "index.html": "/felix-fusion/index.html",
+    "main.2bc09a73.css.map": "/felix-fusion/static/css/main.2bc09a73.css.map",
+    "main.103212d8.js.map": "/felix-fusion/static/js/main.103212d8.js.map",
+    "453.f3642e6f.chunk.js.map": "/felix-fusion/static/js/453.f3642e6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84faa73e.css",
-    "static/js/main.63b918e2.js"
+    "static/css/main.2bc09a73.css",
+    "static/js/main.103212d8.js"
   ]
 }
